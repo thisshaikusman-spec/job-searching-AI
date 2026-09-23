@@ -1,0 +1,6 @@
+{
+  "name": "Job Search AI",
+  "description": "Career dossier intelligence tool analyzing resumes to unveil curated job titles, targeted search keywords, and strategic market fit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
